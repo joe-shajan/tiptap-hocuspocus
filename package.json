@@ -9,6 +9,13 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@hocuspocus/provider": "^2.0.6",
+    "@hocuspocus/server": "^2.0.6",
+    "@tiptap/extension-collaboration": "^2.0.3",
+    "@tiptap/extension-collaboration-cursor": "^2.0.3",
+    "@tiptap/pm": "^2.0.3",
+    "@tiptap/react": "^2.0.3",
+    "@tiptap/starter-kit": "^2.0.3",
     "autoprefixer": "10.4.14",
     "eslint": "8.41.0",
     "eslint-config-next": "13.4.4",
@@ -16,6 +23,12 @@
     "postcss": "8.4.23",
     "react": "18.2.0",
     "react-dom": "18.2.0",
-    "tailwindcss": "3.3.2"
+    "tailwindcss": "3.3.2",
+    "y-prosemirror": "^1.2.1",
+    "y-webrtc": "^10.2.5",
+    "yjs": "^13.6.1"
+  },
+  "devDependencies": {
+    "@tailwindcss/typography": "^0.5.9"
   }
 }
